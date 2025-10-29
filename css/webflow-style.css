@@ -3171,7 +3171,7 @@ blockquote {
     .row-space-between {
         flex-direction: column;
         align-items: flex-start;
-        gap:10;
+        gap:10px;
     }
 
     .course-cta-wrapper {
