@@ -3174,6 +3174,12 @@ blockquote {
         gap:10px;
     }
 
+.label {
+    display: inline-block;
+}
+      .icon {
+    max-height: 65px;
+}
     .course-cta-wrapper {
         padding: 48px 20px 20px;
     }
